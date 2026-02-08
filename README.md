@@ -9,8 +9,7 @@ The repository contains instructional materials and practical exercises tailored
 ##  Repository Contents
 - **Empathy Map** – to better understand the employee’s needs, motivations, and challenges.  
 - **Persona Description** – a detailed profile of the target learner.  
-- **Course Program** – structured learning objectives and modules.  
-- **Lesson Example** – focused on writing an email inquiry about product certificates.  
+- **Course Program** – structured learning objectives and modules.  .  
 - **Learner’s Results Analysis** – evaluation of performance and progress during the course.  
 
 ---
