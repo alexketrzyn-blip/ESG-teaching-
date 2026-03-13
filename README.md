@@ -1,4 +1,4 @@
-# README – Training Course for Upholstered Furniture Company
+# README – Training Course for a Furniture Company
 
 ##  Overview
 This course was designed for an **employee of the purchasing department** in a company producing upholstered furniture.  
